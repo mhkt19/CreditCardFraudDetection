@@ -1,0 +1,15 @@
+--- Average Training Metrics ---
+Accuracy: 0.9999618161469421
+Precision: 0.9787006904669507
+Recall: 0.9997512437810945
+Confusion Matrix:
+[[2.274436e+05 8.600000e+00]
+ [1.000000e-01 3.927000e+02]]
+
+--- Average Testing Metrics ---
+Accuracy: 0.999964888873284
+Precision: 0.9802453468026788
+Recall: 1.0
+Confusion Matrix:
+[[5.68608e+04 2.00000e+00]
+ [0.00000e+00 9.92000e+01]]

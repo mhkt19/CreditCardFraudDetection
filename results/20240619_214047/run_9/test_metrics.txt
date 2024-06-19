@@ -1,0 +1,6 @@
+Accuracy: 0.9999297777465679
+Precision: 0.9622641509433962
+Recall: 1.0
+Confusion Matrix:
+[[56856     4]
+ [    0   102]]
