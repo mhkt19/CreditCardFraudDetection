@@ -81,7 +81,18 @@ The results of each run and the average metrics will be saved in the `results/` 
 - `train_metrics.txt`: Metrics on the training data.
 - `test_metrics.txt`: Metrics on the test data.
 - `average_metrics.txt`: Average metrics across all runs.
+   
+Since the training and testing data are selected randomly for each run, the results are not deterministic across multiple runs. However, the average statistics over 10 runs are listed below:     
 
+--- Average Training Metrics ---     
+Accuracy: 0.99     
+Precision: 0.97     
+Recall: 0.99     
+
+--- Average Testing Metrics ---    
+Accuracy: 0.99     
+Precision: 0.98    
+Recall: 1.0      
 ## Example Output
 
 An example of the average metrics output:
